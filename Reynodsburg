@@ -1,0 +1,7 @@
+package Inteface;
+
+public interface City {
+
+	
+    public void city_in_US();
+   }

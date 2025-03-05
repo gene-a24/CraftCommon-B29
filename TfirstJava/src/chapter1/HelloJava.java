@@ -12,6 +12,8 @@ public class HelloJava {
 		System.out.println("I guess we never know");
 
 		System.out.println("coffee in the on Thursday morning");
+		
+		System.out.println("tea sunday morning");
 
 
 	}

@@ -1,0 +1,20 @@
+Interface: List: which we can store the ordered collection of objects. It can have duplicate values.
+{1,2,3,4,5,6,6,6} -- list
+input = {1,2,3,4,5,6,6,6}  output= {1,2,3,4,5,6,6,6}
+
+class: ArrayList, LinkedList, Vector, and Stack
+
+{1,2,3,4,5,6}
+ ---------------
+|1| 2|3| 4| 5|6|
+ ---------------
+
+|1|<-->|2|<-->|3|
+
+
+Interface: Set: It represents the unordered set of elements which doesn't allow us to store the duplicate items. 
+
+{1,2,3,4,5,6}-- set
+input = {1,2,3,4,5,6} output= {4,5,1,4,2,6},
+
+class: LinkedHashSet, HashSet, TreeSet

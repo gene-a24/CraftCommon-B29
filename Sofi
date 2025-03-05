@@ -1,1 +1,11 @@
 Class25 craf/java
+      // defin or creating method
+       
+	int add(int x, int y) {
+    	   
+		   int result = x + y;
+    	   String name = "Craft";
+    	   boolean a = true;
+    	   double t = 3.4;
+    	   
+    	   return result;

@@ -1,5 +1,5 @@
 package chapter6;
-
+ hello craft class
 public class ExampleClass {
 	int num1 = 10;
 	int num2=20;

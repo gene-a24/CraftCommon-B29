@@ -6,7 +6,8 @@ public class HelloJava {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Java first print");
-		System.out.println("you are my sunsine my only sunsine");
+		System.out.println("you are my sunshine my only sunshine");
+		System.out.println("you make me happy");
 		System.out.println("does the creator exist?");
 		System.out.println("I guess we never know");
 

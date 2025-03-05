@@ -11,9 +11,10 @@ public class SetExample {
   Studentset.add("selam");
   Studentset.add("Eden");
   Studentset.add("hilina");
-  
+  Studentset.add("emebet");
   
 System.out.println("StudentSet:" + hashSet);
+
 	}
 
 }

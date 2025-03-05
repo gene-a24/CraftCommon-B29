@@ -64,9 +64,12 @@ public class StringDemo {
 		int loc = Snew6.indexOf("holiday");
 		System.out.println("Position of holiday:"+ loc);
 		
+		int TW = Snew6.indexOf("Tomorrow");
+		System.out.println("the position of Tomorrow:" +TW);
 		
 		
-		String sub1 = Snew6.substring(18);
+		
+		String sub1 = Snew6.substring(27);
 		System.out.println("subString:" + sub1);
 		
 		String[] arry = Snew6.split(" ");
@@ -74,10 +77,16 @@ public class StringDemo {
 		for(String elt: arry) {
 			System.out.println(elt);
 			
+			
+			
 			String Snew7 = "Hollo";
 			String Snew8 = Snew7.replace('l', 'm');
 			
+			
 			System.out.println( Snew8);
+			
+			String Snew9 = "Dunny";
+			Snew9.replace('D', 'S');
 		}
 		
 		

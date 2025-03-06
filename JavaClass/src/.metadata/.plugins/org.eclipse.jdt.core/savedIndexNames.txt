@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\Users\zelek\OneDrive\Desktop\java code craft\JavaClass\src\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2998578800.index
+3604647883.index
+1027275919.index
+4074205891.index
+1176078964.index
